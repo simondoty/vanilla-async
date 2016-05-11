@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-asyncs",
+  "version": "0.1.0",
+  "description": "implement some async functionality with vanilla js and underscore",
+  "main": "index.js",
+  "scripts": {
+    "test": "./tests/index.js"
+  },
+  "author": "simon",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
